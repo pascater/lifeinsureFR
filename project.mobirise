@@ -84,7 +84,7 @@
       "rejectText": "REJECT"
     },
     "pwa-switcher": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mcSmartCart": {
       "currency": "USD"
     },
