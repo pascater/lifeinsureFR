@@ -84,7 +84,7 @@
       "rejectText": "REJECT"
     },
     "pwa-switcher": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mcSmartCart": {
       "currency": "USD"
     },
@@ -1548,7 +1548,7 @@
             },
             ".card-title": {
               "line-height": "1.5",
-              "color": "#491414",
+              "color": "#353535",
               "padding-top": "2rem",
               "text-align": "left"
             },
